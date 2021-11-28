@@ -1,0 +1,14 @@
+# This file contains all warning messages generated on 25-Nov-2021 at 16:50:43
+
+
+# ATTENUATION DUE TO CLOUDS:
+
+_ The ITU-R P.840-4 model for the computation of the liquid water content can only provides values for p > 0.1%.
+  For all values of p < 0.1%, the liquid water content value will not be computed.
+
+# ATTENUATION DUE TO RAIN:
+
+_ The provided frequencies values do not match the model validity range.
+  The ITU-R P.618-10 model is limited to frequency values below to 55 GHz.
+  Some or all frequency values can lead to inacurate results. Please, check the inputs.
+
