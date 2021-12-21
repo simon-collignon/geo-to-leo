@@ -1,0 +1,8 @@
+# This file is generated on 12-Dec-2021 at 19:52:18 and contains for each site:
+# press = air total pressure (hPa); temp = air temperature (K); vap = water vapour density (g/m^3) and hl = height level of reference amsl (km).
+# All parameters are computed by: ITU-R P.835-4 model on Mean annual period.
+# Atmospheric results are sorted acording to the site identification number:
+#    _ 1 = Graz (Lat = 4.7090e+01 deg, Lon = 1.5460e+01 deg, Alt = 4.6800e-01 km)
+# Stored values are organised as follow:
+# Site number, height level of reference amsl (km), press (hPa), temp (K), vap (g/m^3)
+1, 4.6800e-01, 9.5818e+02, 2.8511e+02, 5.9352e+00
